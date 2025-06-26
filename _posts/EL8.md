@@ -1,0 +1,57 @@
+---
+layout: post
+title: Fiche de révision : Arthur Rimbaud, "Sensation" (*Cahiers de Douai*, 1870)
+---
+
+#### **INTRODUCTION**
+
+*   **Présentation de l'auteur et du contexte :** Arthur Rimbaud, alors âgé de 16 ans, écrit les poèmes des *Cahiers de Douai* en 1870, durant ses fugues. "Sensation" est l'un des tout premiers poèmes de ce recueil (daté de mars 1870). Il exprime le désir d'évasion d'un adolescent qui étouffe dans sa ville de Charleville et qui rêve de liberté.
+
+*   **Situation de l'extrait :** Ce court poème de deux quatrains, très simple en apparence, est en réalité un véritable art poétique et un manifeste pour la liberté. Son titre, "Sensation", est la clé du poème : il s'agit de faire de l'expérience du monde par les sens le fondement d'une nouvelle existence.
+
+*   **(Lecture expressive de l'extrait)**
+
+*   **Problématique / Projet de lecture :** Nous verrons comment ce poème, à travers la projection d'une simple promenade, construit le rêve d'une émancipation totale, à la fois physique, sociale et poétique.
+
+*   **Annonce du plan (mouvements du texte) :**
+    1.  **Premier mouvement (premier quatrain, V1 à V4) :** La description d'une communion physique et sensorielle avec la nature.
+    2.  **Deuxième mouvement (second quatrain, V5 à V8) :** L'intériorisation de cette expérience qui mène à une libération spirituelle et sociale.
+
+---
+
+#### **DÉVELOPPEMENT : EXPLICATION LINÉAIRE**
+
+##### **1er Mouvement : La communion physique avec la Nature (V1-V4)**
+
+*   **Idée directrice :** Le poète projette une expérience d'immersion totale dans la nature, en se concentrant sur les sensations physiques.
+*   **Développement des arguments et justifications :**
+    *   Le poème s'ouvre sur un cadre idyllique : **"Par les soirs bleus d'été" (V1)**. L'adjectif "bleus" est presque une synesthésie, mêlant la couleur du ciel à la douceur du soir. L'emploi du futur simple (**"j'irai"**) tout au long du poème montre qu'il s'agit d'un projet, d'un rêve, d'une promesse qu'il se fait à lui-même.
+    *   Le corps est au centre de l'expérience, avec une grande attention au sens du toucher : il sera **"Picoté par les blés" (V2)**, il **"foulera l'herbe menue" (V2)**, il sentira **"la fraîcheur à [s]es pieds" (V3)**. Le contact avec la terre est direct, sans filtre.
+    *   La posture du poète est celle de l'abandon. Il est **"Rêveur" (V3)**, et surtout, il **"laisserai le vent baigner ma tête nue" (V4)**. Le verbe "baigner" suggère une immersion purificatrice. La **"tête nue"** est un symbole fort de liberté, de rejet des conventions sociales et de l'autorité.
+
+##### **2ème Mouvement : L'élévation spirituelle et l'émancipation (V5-V8)**
+
+*   **Idée directrice :** Cette expérience purement sensorielle a pour conséquence une libération de l'esprit et une redéfinition de soi comme un être libre et nomade.
+*   **Développement des arguments et justifications :**
+    *   Le vers 5 marque une rupture radicale : **"Je ne parlerai pas, je ne penserai rien :"**. C'est une double émancipation : se libérer de la communication sociale ("parler") et de la pensée rationnelle ("penser"). Le poète cherche un état de pure sensation, avant le langage et la raison.
+    *   Le "Mais" au vers 6 introduit la conséquence de ce vide : **"Mais l'amour infini me montera dans l'âme"**. L'absence de pensée laisse place à un sentiment universel, quasi mystique, un **"amour infini"** qui n'est pas dirigé vers une personne mais vers le tout.
+    *   L'identité rêvée se précise au vers 7 : **"Et j'irai loin, bien loin, comme un bohémien"**. La répétition "loin, bien loin" insiste sur la fugue. La comparaison avec le **"bohémien"** est essentielle : c'est la figure de l'artiste nomade, sans attache, vivant en marge de la société. C'est l'affirmation d'une émancipation sociale.
+    *   Le dernier vers apporte la clé de ce bonheur : **"Par la Nature, – heureux comme avec une femme" (V8)**. La Nature est la source de ce bonheur. La comparaison finale, mise en relief par le tiret, est audacieuse : la fusion avec la Nature procure un bonheur aussi intense et complet que l'union amoureuse. La Nature est érotisée, elle devient une amante.
+
+---
+
+#### **QUESTION DE GRAMMAIRE POSSIBLE**
+
+**Question :** "Quelle est la valeur du temps verbal dominant dans le poème ?"
+
+**Réponse :** Le temps dominant est le futur simple de l'indicatif ("j'irai", "j'en sentirai", "je laisserai", "je ne parlerai pas", "je ne penserai rien"). Ce n'est pas le temps d'une action réalisée, mais celui d'une action projetée, d'un programme, d'une promesse. Cette valeur de projection donne au poème son caractère de rêve éveillé, de manifeste. C'est l'expression d'une volonté ferme et d'un désir ardent de transformation de sa propre vie.
+
+---
+
+#### **CONCLUSION**
+
+*   **Bilan de l'analyse :** "Sensation" est bien plus qu'une simple description de promenade. C'est un poème manifeste où Rimbaud exprime son projet de vie et son projet poétique : s'émanciper des contraintes sociales et familiales par la fuite, et refonder le rapport au monde sur l'expérience sensorielle directe, qui seule peut mener à une forme de vérité et de bonheur absolu.
+
+*   **Ouverture justifiée (lien avec le parcours "Émancipations créatrices") :** Ce poème est au cœur du parcours "Émancipations créatrices".
+    *   **Émancipation :** Il s'agit d'une triple libération. Libération du carcan de la ville et de la société ("j'irai dans les sentiers... comme un bohémien"). Libération de la pensée rationnelle ("je ne penserai rien"). Libération des conventions poétiques par une simplicité désarmante.
+    *   **Créatrice :** L'émancipation passe ici par un acte de création poétique. En écrivant ce poème, Rimbaud ne fait pas que rêver sa liberté, il la *crée* par le langage. Le poème lui-même est la première étape de cette fugue. C'est un acte de naissance du poète "Voyant", celui qui, par les mots, invente de nouvelles façons de sentir et donc de nouvelles façons de vivre.

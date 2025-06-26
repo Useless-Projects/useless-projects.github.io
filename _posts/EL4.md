@@ -1,0 +1,69 @@
+---
+layout: post
+title: Fiche de révision : Abbé Prévost, *Manon Lescaut* (1731) - La scène de la rencontre
+---
+
+#### **INTRODUCTION**
+
+*   **Présentation de l'auteur et du contexte :** L'Abbé Prévost est un écrivain du début du XVIIIe siècle. Son roman *L'Histoire du chevalier des Grieux et de Manon Lescaut*, publié en 1731, s'inscrit à la charnière entre le classicisme et les Lumières et est l'un des premiers grands exemples du roman de mœurs et de sensibilité.
+
+*   **Situation de l'extrait :** Ce passage constitue la scène de rencontre, racontée par le narrateur, Des Grieux. Il s'agit d'un récit rétrospectif (il raconte des années plus tard) qui constitue l'incipit de son histoire personnelle. C'est le moment fondateur, la bascule de sa vie, où il voit Manon pour la première fois à la descente d'un coche à Amiens.
+
+*   **(Lecture expressive de l'extrait)**
+
+*   **Problématique / Projet de lecture :** Nous chercherons à montrer comment cette scène de rencontre, bien que reposant sur le hasard, est présentée d'emblée comme un événement fatal qui scelle le destin tragique des personnages et les place immédiatement en marge de la société.
+
+*   **Annonce du plan (mouvements du texte) :**
+    1.  **Premier mouvement (lignes 1 à 6) :** Le récit d'un hasard teinté de fatalité.
+    2.  **Deuxième mouvement (lignes 6 à 13) :** Le coup de foudre, une passion immédiate et dévastatrice.
+    3.  **Troisième mouvement (lignes 13 à 22) :** Un premier échange qui révèle les obstacles et scelle le pacte amoureux, annonçant la tragédie à venir.
+
+---
+
+#### **DÉVELOPPEMENT : EXPLICATION LINÉAIRE**
+
+##### **1er Mouvement : Un hasard teinté de fatalité (l. 1-6)**
+
+*   **Idée directrice :** Le narrateur met en scène la rencontre comme le fruit du hasard, mais le ton rétrospectif la charge immédiatement d'une dimension tragique et fatale.
+*   **Développement des arguments et justifications :**
+    *   La première phrase, **"J'avais marqué le temps de mon départ d'Amiens" (l. 1)**, installe un cadre réaliste et un moment précis.
+    *   Cette objectivité est immédiatement brisée par l'intervention du narrateur qui juge son passé : l'interjection **"Hélas !"** et la question rhétorique **"que ne le marquais-je un jour plus tôt !" (l. 1-2)** agissent comme une prolepse. On sait déjà que l'événement à venir sera une catastrophe.
+    *   Le narrateur insiste sur son état d'avant : une **"innocence" (l. 2)** promise à un avenir rangé ("chez mon père").
+    *   Les circonstances de la rencontre relèvent du hasard et de l'oisiveté : la promenade avec Tiberge, le suivi du coche par simple **"curiosité" (l. 6)**. Ce motif banal contraste fortement avec les conséquences extraordinaires de l'événement.
+
+##### **2ème Mouvement : Le coup de foudre, une passion dévastatrice (l. 6-13)**
+
+*   **Idée directrice :** L'apparition de Manon provoque chez le jeune Des Grieux un bouleversement total et instantané, qui le transforme et anéantit sa personnalité d'avant.
+*   **Développement des arguments et justifications :**
+    *   Manon est d'abord isolée de la foule : **"Mais il en resta une, fort jeune, qui s'arrêta seule" (l. 6-7)**. Cette mise en scène la singularise et la met en lumière.
+    *   Le choc est décrit par l'effet qu'il produit sur Des Grieux. Il oppose son "moi" passé – **"moi, qui n'avais jamais pensé à la différence des sexes"**, **"moi, dis-je, dont tout le monde admirait la sagesse et la retenue" (l. 9-11)** – à son état présent. L'insistance sur ce "moi" sage par la répétition souligne la violence de la transformation.
+    *   La passion est soudaine et violente, exprimée par l'hyperbole **"je me trouvai enflammé tout d'un coup jusqu'au transport" (l. 11-12)**. Le champ lexical du feu ("enflammé") et de la folie ("transport") montre la perte de contrôle et la nature irrationnelle de cet amour.
+    *   Cette nouvelle passion anéantit ses anciens traits de caractère. Sa timidité ("excessivement timide") est balayée et il **"s'avance vers la maîtresse de [s]on cœur" (l. 13)**, titre possessif qu'il lui donne immédiatement.
+
+##### **3ème Mouvement : Le pacte amoureux et l'annonce de la tragédie (l. 13-22)**
+
+*   **Idée directrice :** Le premier dialogue révèle instantanément l'obstacle majeur (le couvent) et la nature ambiguë des deux personnages, tout en confirmant le destin tragique de leur union.
+*   **Développement des arguments et justifications :**
+    *   Le dialogue révèle une inversion des rôles. Des Grieux, le novice, est rendu **"éclairé" (l. 17)** par l'amour, tandis que Manon, malgré son jeune âge, est **"bien plus expérimentée" (l. 20)**.
+    *   L'obstacle est révélé immédiatement : elle est envoyée par ses parents **"pour être religieuse" (l. 17)**. Cet aveu est perçu par Des Grieux comme un **"coup mortel pour [s]es désirs" (l. 18)**, employant un vocabulaire tragique.
+    *   La réponse de Manon est ambiguë : elle a un **"penchant au plaisir" (l. 21)**. On comprend qu'elle est un personnage en marge, que sa famille tente de réprimer. Elle est à la fois victime (on "l'envoyait" au couvent "malgré elle") et déjà actrice de sa marginalité.
+    *   La dernière phrase du passage est une prolepse explicite qui sert de clé de lecture à tout le roman. Le penchant de Manon **"a causé, dans la suite, tous ses malheurs et les miens" (l. 22)**. Le narrateur lie explicitement le caractère de Manon et leur amour à la catastrophe finale. Le possessif "ses" avant "les miens" suggère subtilement qu'il la tient pour première responsable.
+
+---
+
+#### **QUESTION DE GRAMMAIRE POSSIBLE**
+
+**Question :** "Analysez la relation de cause à conséquence dans la phrase (l. 17-19) : `L'amour me rendait déjà si éclairé, depuis un moment qu'il était dans mon cœur, que je regardai ce dessein comme un coup mortel pour mes désirs.`"
+
+**Réponse :** Cette phrase est construite sur une corrélation consécutive (de conséquence).
+*   La proposition principale est "L'amour me rendait déjà si éclairé". L'intensité de l'adjectif "éclairé" est marquée par l'adverbe "si".
+*   La proposition subordonnée conjonctive de conséquence est "que je regardai ce dessein comme un coup mortel pour mes désirs", introduite par la conjonction "que".
+*   L'ensemble "si... que" exprime un rapport de cause à conséquence : l'amour est si puissant (cause) que Des Grieux comprend immédiatement la gravité de la situation (conséquence). La proposition "depuis un moment qu'il était dans mon cœur" est une subordonnée circonstancielle de temps qui insiste sur la soudaineté du phénomène.
+
+---
+
+#### **CONCLUSION**
+
+*   **Bilan de l'analyse :** Cette scène de rencontre est bien plus qu'un simple coup de foudre romanesque. Par le jeu de la narration rétrospective, Prévost la présente comme un *fatum*, un piège du destin qui se referme sur le personnage. En quelques lignes, les thèmes majeurs du roman sont posés : la passion comme une force fatale et irrationnelle, l'opposition entre l'amour et l'ordre social (famille, religion), et la marginalisation inévitable des personnages qui choisissent la passion.
+
+*   **Ouverture justifiée (lien avec le parcours "Personnages en marge, plaisirs du romanesque") :** Cette scène est emblématique du parcours. Manon (envoyée au couvent pour son "penchant au plaisir") et Des Grieux (qui renonce à son innocence en un instant) apparaissent immédiatement comme des **personnages en marge**. De plus, le récit de cette passion foudroyante, de ce bouleversement total qui fait fi des conventions, est au cœur des **plaisirs du romanesque** : le lecteur est fasciné par cette transgression et par l'intensité d'un sentiment qui mène les héros à leur perte. C'est le plaisir de lire ce que la morale réprouve.

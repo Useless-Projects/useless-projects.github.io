@@ -1,0 +1,66 @@
+---
+layout: post
+title: Fiche de révision : Albert Camus, *L'Étranger* (1942) - La demande en mariage
+---
+
+#### **INTRODUCTION**
+
+*   **Présentation de l'auteur et du contexte :** Albert Camus, écrivain et philosophe du XXe siècle, est une figure majeure associée à l'Absurde. *L'Étranger*, publié en 1942, est son premier roman et illustre sa philosophie à travers le personnage de Meursault, qui vit en décalage avec les conventions sociales et les sentiments humains traditionnels. Le style du roman, qualifié d' "écriture blanche", se caractérise par sa neutralité et son objectivité.
+
+*   **Situation de l'extrait :** Ce passage se situe au chapitre 5 de la première partie, avant le meurtre qui fera basculer le roman. Meursault mène une vie simple et sensorielle à Alger. Marie, sa petite amie, vient lui rendre visite et le dialogue s'engage sur la question du mariage. Cette scène est un révélateur puissant de l'étrangeté de Meursault et de son imperméabilité aux codes sociaux.
+
+*   **(Lecture expressive de l'extrait)**
+
+*   **Problématique / Projet de lecture :** On analysera comment ce dialogue sur le mariage, en apparence banal, révèle en réalité la profonde marginalité de Meursault et sa perception absurde du monde, en opposition totale avec les attentes sociales et romantiques.
+
+*   **Annonce du plan (mouvements du texte) :**
+    1.  **Premier mouvement (lignes 1 à 6) :** La proposition de mariage, qui se heurte à l'indifférence et à la logique désarmante de Meursault.
+    2.  **Deuxième mouvement (lignes 7 à 12) :** L'incompréhension de Marie, qui tente de sonder Meursault sur l'amour et l'exclusivité, sans succès.
+    3.  **Troisième mouvement (lignes 12 à 17) :** L'acceptation paradoxale de Marie et le retour du dialogue à des considérations concrètes et sensorielles.
+
+---
+
+#### **DÉVELOPPEMENT : EXPLICATION LINÉAIRE**
+
+##### **1er Mouvement : La proposition et l'indifférence (l. 1-6)**
+
+*   **Idée directrice :** Face à la proposition de Marie, Meursault répond par une indifférence et une honnêteté qui vident le mariage de tout son sens conventionnel.
+*   **Développement des arguments et justifications :**
+    *   La réponse initiale de Meursault est lapidaire : **"cela m'était égal" (l. 2)**. Il ne refuse pas, il ne montre pas d'enthousiasme ; il exprime une neutralité totale face à un acte socialement très fort.
+    *   À la question de l'amour, il répond par une déconstruction logique : **"que cela ne signifiait rien mais que sans doute je ne l'aimais pas" (l. 3-4)**. Il juge le mot "aimer" vide de sens et en tire la conclusion logique qu'il ne ressent pas ce sentiment.
+    *   Il annule l'importance de l'engagement : **"cela n'avait aucune importance" (l. 5)**. Son passif **"je me contentais de dire oui" (l. 6)** s'oppose à l'initiative de Marie ("c'était elle qui le demandait"), montrant qu'il subit les événements sans chercher à leur donner une direction.
+    *   Le dialogue culmine dans l'opposition entre la vision sociale du mariage, "une chose grave", et la négation absolue de Meursault : **"« Non. »" (l. 6)**. Ce mot seul crée un gouffre entre lui et le monde.
+
+##### **2ème Mouvement : Le sondage de l'incompréhensible (l. 7-12)**
+
+*   **Idée directrice :** Le silence de Marie traduit son trouble. Elle tente alors de comprendre l'étrangeté de Meursault en le questionnant sur l'exclusivité de son attachement, mais se heurte à la même logique implacable.
+*   **Développement des arguments et justifications :**
+    *   Face à l'indifférence de Meursault, Marie cherche à savoir si elle est, au moins, unique. Sa question sur le fait d'accepter la même proposition d'une autre femme est un test.
+    *   La réponse de Meursault, **"« Naturellement. »" (l. 9)**, est la plus cruelle pour Marie, mais la plus cohérente pour lui. Il applique une règle logique et universelle là où la société attend un sentiment unique et particulier.
+    *   Quand elle lui demande si *elle* l'aime, il se déclare incapable de le savoir : **"moi, je ne pouvais rien savoir sur ce point" (l. 10)**. Il refuse de spéculer sur les sentiments d'autrui, s'en tenant à une vérité factuelle et vérifiable.
+    *   Marie tire une conclusion lucide : **"j'étais bizarre" (l. 11)**. Elle comprend son altérité fondamentale. Elle rationalise même son amour par cette bizarrerie, tout en pressentant que cette même qualité pourrait un jour la **"dégoûter" (l. 12)**.
+
+##### **3ème Mouvement : L'acceptation et le retour au concret (l. 12-17)**
+
+*   **Idée directrice :** Malgré tout, Marie accepte Meursault tel qu'il est et le dialogue bascule alors vers des sujets concrets, seule réalité tangible pour le narrateur.
+*   **Développement des arguments et justifications :**
+    *   Le silence de Meursault (**"Comme je me taisais"**, l. 12) montre qu'il n'a rien à ajouter ou à justifier. Il est entièrement ce qu'il paraît être.
+    *   Marie prend la décision finale : **"elle a déclaré qu'elle voulait se marier avec moi" (l. 13)**. C'est elle l'élément actif ; il est l'objet passif de la décision.
+    *   Dès que l'affaire est conclue, Meursault réoriente la conversation vers un sujet concret : **"la proposition du patron" (l. 14)** et Paris. Il fuit l'abstrait des sentiments pour le concret du monde matériel.
+    *   Sa description de Paris est un chef-d'œuvre de style "étranger" : **"« C'est sale. Il y a des pigeons et des cours noires. Les gens ont la peau blanche. »" (l. 16-17)**. Aucune poésie, aucun cliché romantique. Juste une liste de faits sensoriels, bruts, qui révèle son incapacité à voir le monde autrement qu'à travers ses sensations immédiates.
+
+---
+
+#### **QUESTION DE GRAMMAIRE POSSIBLE**
+
+**Question :** "Analysez la syntaxe et la valeur de la réponse de Meursault à la ligne 6 : 'Elle a observé alors que le mariage était une chose grave. J'ai répondu : « Non. »'."
+
+**Réponse :** Dans cette phrase, "J'ai répondu : « Non. »" est une juxtaposition de deux éléments. La première partie, "J'ai répondu :", introduit du discours direct. La réponse elle-même, "« Non. »", est une phrase non verbale réduite à un adverbe de négation. L'extrême brièveté de cette réponse, un seul mot, s'oppose syntaxiquement et sémantiquement à la proposition subordonnée de Marie ("que le mariage était une chose grave"). Cette opposition stylistique renforce la violence de la réfutation de Meursault. Il ne se contente pas de ne pas être d'accord, il anéantit l'affirmation de Marie avec une économie de moyens qui souligne son indifférence radicale.
+
+---
+
+#### **CONCLUSION**
+
+*   **Bilan de l'analyse :** Cette scène, à travers un dialogue du quotidien, met en lumière le gouffre qui sépare Meursault du reste des hommes. Son honnêteté radicale et son incapacité à jouer le jeu social des sentiments font de lui un être profondément marginal. Il n'est pas immoral, il est amoral ; il est étranger aux codes qui régissent les relations humaines.
+
+*   **Ouverture justifiée (lien avec le parcours "Personnages en marge, plaisirs du romanesque") :** Meursault est la figure même du **personnage en marge**, non pas par rébellion active comme Des Grieux, mais par sa nature même, par son incapacité à percevoir le monde autrement. Le **plaisir du romanesque** que procure Camus est ici très différent de celui de Prévost : ce n'est pas le plaisir de l'empathie passionnelle, mais un plaisir intellectuel et déstabilisant. Le lecteur est fasciné par ce personnage qui expose l'artificialité des conventions sociales, et le plaisir naît de la force de la démonstration philosophique et de la perfection du style qui la sert.

@@ -1,0 +1,69 @@
+---
+layout: post
+title: Fiche de révision : Abbé Prévost, *Manon Lescaut* (1731) - La mort de Manon
+---
+
+#### **INTRODUCTION**
+
+*   **Présentation de l'auteur et du contexte :** L'Abbé Prévost, écrivain du XVIIIe siècle, est l'auteur de *L'Histoire du chevalier des Grieux et de Manon Lescaut* (1731), un roman qui a marqué son époque par sa peinture d'une passion dévorante et la modernité de ses personnages.
+
+*   **Situation de l'extrait :** Ce passage est l'acmé tragique du roman. Après avoir été déportés en Amérique et s'être enfuis dans le désert, Manon et Des Grieux sont à bout de forces. L'extrait est le récit rétrospectif que fait Des Grieux de la mort de son amante. C'est l'aboutissement fatal de leur vie en marge, le moment où la passion se heurte à la réalité la plus crue.
+
+*   **(Lecture expressive de l'extrait)**
+
+*   **Problématique / Projet de lecture :** On montrera comment ce récit de la mort de Manon, marqué par le pathétique et la pudeur de l'inexprimable, sublime l'amour des deux héros et consacre la destinée tragique de Des Grieux.
+
+*   **Annonce du plan (mouvements du texte) :**
+    1.  **Premier mouvement (lignes 1 à 4) :** Un préambule à la narration, où Des Grieux exprime la douleur de raconter l'événement.
+    2.  **Deuxième mouvement (lignes 5 à 14) :** Le récit de l'agonie de Manon, une prise de conscience progressive et déchirante.
+    3.  **Troisième mouvement (lignes 14 à 18) :** L'aveu de l'impossibilité de dire la fin, qui se clôt sur la dépossession et la survie maudite.
+
+---
+
+#### **DÉVELOPPEMENT : EXPLICATION LINÉAIRE**
+
+##### **1er Mouvement : La douleur du récit (l. 1-4)**
+
+*   **Idée directrice :** Avant même de commencer son récit, le narrateur prend son auditeur à témoin de la souffrance que représente pour lui cette narration.
+*   **Développement des arguments et justifications :**
+    *   Le texte s'ouvre sur une adresse directe à son interlocuteur : **"Pardonnez" (l. 1)**, **"Je vous raconte" (l. 1)**. Cette adresse instaure un ton de confidence et sollicite la compassion.
+    *   Le champ lexical de la souffrance est omniprésent : **"qui me tue"**, **"malheur"**, **"pleurer"**, **"horreur"**. Le récit est présenté comme une reviviscence du traumatisme.
+    *   L'hyperbole **"un malheur qui n'eut jamais d'exemple" (l. 2)** place d'emblée l'histoire au-dessus du commun, dans la sphère du mythe tragique.
+    *   Le narrateur exprime une tension intime : il porte le souvenir **"sans cesse"** mais son âme **"semble reculer d'horreur chaque fois que j'entreprends de l'exprimer" (l. 3-4)**. C'est la parole impossible, la difficulté à mettre en mots l'indicible.
+
+##### **2ème Mouvement : Le récit de l'agonie (l. 5-14)**
+
+*   **Idée directrice :** Le récit de la nuit fatale se fait par une gradation subtile, allant des gestes tendres aux signes physiques de la mort, jusqu'à la prise de conscience inéluctable.
+*   **Développement des arguments et justifications :**
+    *   Le début du récit est trompeur : **"passé tranquillement une partie de la nuit" (l. 5)**. Ce calme apparent rend la suite d'autant plus brutale.
+    *   La découverte de la fin imminente se fait par le toucher, un sens très intime : **"en touchant ses mains, qu'elle les avait froides et tremblantes" (l. 7-8)**. Le corps dit la vérité avant les mots.
+    *   Le geste de Des Grieux, **"Je les approchai de mon sein pour les échauffer" (l. 8-9)**, est un acte d'amour et de soin désespéré, presque maternel.
+    *   La parole de Manon (**"d'une voix faible"**, l. 10) confirme la vérité du corps : **"elle se croyait à sa dernière heure"**. Elle est lucide et résignée.
+    *   Des Grieux, lui, est dans le déni : il prend d'abord ses mots pour un **"langage ordinaire dans l'infortune" (l. 11)**. Il refuse de voir la réalité.
+    *   La vérité s'impose à lui par des signes non-verbaux, une accumulation qui brise son déni : **"ses soupirs fréquents, son silence à mes interrogations, le serrement de ses mains" (l. 12-13)**.
+    *   La fin est annoncée par une périphrase pleine de tendresse : **"la fin de ses malheurs approchait" (l. 14)**. La mort est vue comme une délivrance, une rédemption.
+
+##### **3ème Mouvement : L'indicible et la survie maudite (l. 14-18)**
+
+*   **Idée directrice :** Le narrateur refuse de raconter les derniers instants, soulignant le caractère sacré et intime de la mort de Manon, et conclut sur la solitude absolue de sa survie.
+*   **Développement des arguments et justifications :**
+    *   Il utilise une prétérition, une figure de style qui consiste à dire qu'on ne dira pas quelque chose : **"N'exigez point de moi que je vous décrive mes sentiments, ni que je vous rapporte ses dernières expressions" (l. 14-16)**. Ce silence est plus poignant que n'importe quel discours ; il sacralise l'instant.
+    *   La mort elle-même est dite avec une simplicité et une brièveté déchirantes : **"Je la perdis" (l. 16)**. Cette phrase courte, au passé simple, a la brutalité d'un couperet.
+    *   L'ultime souvenir est celui de son amour : **"je reçus d'elle des marques d'amour au moment même qu'elle expirait" (l. 16-17)**. Manon meurt en amante fidèle, purifiée de toutes ses fautes passées. L'amour triomphe dans la mort.
+    *   La phrase finale est d'une simplicité tragique absolue : **"Mon âme ne suivit pas la sienne" (l. 18)**. Sa survie n'est pas une chance, mais une malédiction. Il est condamné à vivre sans elle, ce qui est pire que la mort.
+
+---
+
+#### **QUESTION DE GRAMMAIRE POSSIBLE**
+
+**Question :** "Identifiez le temps et le mode du verbe 'Pardonnez' (l. 1). Quelle est la valeur de cet emploi dans le contexte ?"
+
+**Réponse :** Le verbe "Pardonnez" est à la deuxième personne du pluriel de l'impératif présent. Sa valeur ici n'est pas un ordre, mais une demande respectueuse ou une prière adressée à son auditeur (le marquis de Renoncour, et à travers lui, le lecteur). Cet impératif d'adresse permet d'établir une relation de complicité et de solliciter la bienveillance de l'interlocuteur avant de livrer un récit présenté comme insoutenable.
+
+---
+
+#### **CONCLUSION**
+
+*   **Bilan de l'analyse :** La mort de Manon est le sommet pathétique du roman. En choisissant la retenue et en insistant sur l'impossibilité de dire, Prévost ne fait qu'augmenter l'émotion du lecteur. Cette mort dans le dénuement le plus total devient une transfiguration : elle lave Manon de ses péchés et scelle la pureté d'un amour absolu. Pour Des Grieux, elle marque le début d'une vie qui n'est qu'une survie, une existence entièrement dédiée au souvenir.
+
+*   **Ouverture justifiée (lien avec le parcours "Personnages en marge, plaisirs du romanesque") :** C'est dans cette scène que le parcours trouve sa conclusion la plus logique et la plus poignante. C'est parce qu'ils sont des **personnages en marge**, rejetés par toutes les instances sociales, que leur histoire s'achève dans ce désert, symbole de leur exclusion. Et c'est précisément cette fin tragique qui procure un des plus intenses **plaisirs du romanesque** : le plaisir de la compassion, de l'empathie pour un amour si absolu qu'il ne peut survivre dans le monde réel mais qui accède, par la littérature, au statut de mythe.

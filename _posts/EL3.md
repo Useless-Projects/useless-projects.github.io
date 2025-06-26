@@ -1,0 +1,70 @@
+---
+layout: post
+title: Fiche de révision : Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* (1791) - Postambule
+---
+
+#### **INTRODUCTION**
+
+*   **Présentation de l'auteur et du contexte :** Olympe de Gouges, figure de la Révolution française, publie en 1791 sa *Déclaration des droits de la femme et de la citoyenne* pour dénoncer l'oubli des femmes par le nouveau régime. Elle est une écrivaine engagée qui utilise sa plume pour combattre les injustices.
+
+*   **Situation de l'extrait :** Ce texte, intitulé "Postambule", conclut la Déclaration. Après avoir posé les articles de loi, Gouges s'adresse ici directement aux femmes. Il ne s'agit plus d'un texte juridique, mais d'un discours de mobilisation, un appel vibrant et passionné à l'action.
+
+*   **(Lecture expressive de l'extrait)**
+
+*   **Problématique / Projet de lecture :** Nous analyserons comment Olympe de Gouges, dans ce discours véhément, cherche à provoquer une prise de conscience chez les femmes pour les inciter à passer de la passivité à la lutte active pour leurs droits.
+
+*   **Annonce du plan (mouvements du texte) :**
+    1.  **Premier mouvement (lignes 1 à 8) :** Un appel au réveil fondé sur les principes des Lumières et sur la dénonciation de l'ingratitude masculine.
+    2.  **Deuxième mouvement (lignes 8 à 18) :** Un bilan négatif de la Révolution pour les femmes, mené à travers une série de questions rhétoriques pour piquer leur orgueil.
+    3.  **Troisième mouvement (lignes 19 à 26) :** Une exhortation finale à l'union et à la lutte, présentant la victoire comme certaine et ne dépendant que de leur volonté.
+
+---
+
+#### **DÉVELOPPEMENT : EXPLICATION LINÉAIRE**
+
+##### **1er Mouvement : Un appel au réveil au nom des Lumières (l. 1-8)**
+
+*   **Idée directrice :** Gouges lance un appel direct et pressant aux femmes, en s'appuyant sur l'idéal de la Raison, tout en dénonçant la trahison des hommes.
+*   **Développement des arguments et justifications :**
+    *   Le texte s'ouvre sur une apostrophe directe et un impératif : **"Femme, réveille-toi" (l. 1)**. L'emploi du singulier "Femme" donne une portée universelle à l'appel.
+    *   Elle utilise des métaphores propres aux Lumières : le **"tocsin de la raison" (l. 1)** et le **"flambeau de la vérité" (l. 4)**. La cause des femmes est présentée comme celle du progrès et de l'intelligence.
+    *   Elle oppose ce progrès aux maux de l'Ancien Régime, à travers un champ lexical de l'obscurantisme : **"préjugés, fanatisme, superstition et de mensonges" (l. 3-4)**.
+    *   Elle dresse un portrait paradoxal de l'homme : **"L'homme esclave" (l. 5)** a eu besoin de la force des femmes pour se libérer, mais **"Devenu libre, il est devenu injuste" (l. 7)**. L'antithèse violente entre "libre" et "injuste" met en évidence l'ingratitude et l'hypocrisie masculine.
+    *   L'apostrophe finale, **"O femmes ! Femmes, quand cesserez-vous d'être aveugles ?" (l. 7-8)**, est une provocation. Elle accuse les femmes de passivité et les somme de prendre conscience de leur situation.
+
+##### **2ème Mouvement : Le bilan amer de la Révolution (l. 8-18)**
+
+*   **Idée directrice :** Par une série de questions et de réponses cinglantes, Gouges démontre que la Révolution non seulement n'a rien apporté aux femmes, mais a aggravé leur condition.
+*   **Développement des arguments et justifications :**
+    *   La question rhétorique **"Quels sont les avantages que vous avez recueillis dans la révolution ?" (l. 9)** est purement provocatrice, la réponse étant "aucun".
+    *   Elle y répond elle-même avec un parallélisme accusateur : **"Un mépris plus marqué, un dédain plus signalé" (l. 10)**. La situation a empiré.
+    *   Elle déconstruit l'illusion du pouvoir féminin d'Ancien Régime : **"vous n'avez régné que sur la faiblesse des hommes. Votre empire est détruit" (l. 11-12)**. Ce pouvoir était illégitime et il est maintenant perdu.
+    *   À la question **"que vous reste-t-il donc ?" (l. 12)**, elle apporte une réponse qui fonde la légitimité du combat : **"la conviction des injustices"** et **"la réclamation de votre patrimoine" (l. 12-13)**. Le constat amer devient un moteur pour l'action.
+    *   Elle anticipe les peurs en les balayant par une autre question, **"Qu'auriez-vous à redouter... ?" (l. 14)**, et tourne en ridicule une éventuelle opposition des législateurs, qualifiée de morale qui **"n'est plus de saison" (l. 17)**.
+    *   Elle met en scène un dialogue fictif où à la question méprisante des hommes **« qu'y a-t-il de commun entre vous et nous ? »**, elle dicte la réponse aux femmes : **« Tout » (l. 18)**. Ce mot unique, monosyllabique, claque comme une affirmation de puissance et d'égalité totale.
+
+##### **3ème Mouvement : L'appel aux armes et la promesse de victoire (l. 19-26)**
+
+*   **Idée directrice :** Gouges conclut par un appel à la lutte collective, en donnant aux femmes les armes et la stratégie pour vaincre une opposition masculine présentée comme faible.
+*   **Développement des arguments et justifications :**
+    *   Elle utilise un lexique martial pour mobiliser : **"opposez courageusement" (l. 20)**, **"réunissez-vous sous les étendards de la philosophie" (l. 21)**. Les armes ne sont pas physiques, mais intellectuelles (la "force de la raison", la "philosophie").
+    *   Le combat est présenté comme juste et la victoire, certaine. Les hommes sont qualifiés d'**"orgueilleux"** mais aussi de **"serviles adorateurs" (l. 23)**. S'ils s'obstinent, c'est par **"faiblesse" (l. 19)**.
+    *   Le but n'est pas la domination, mais l'égalité : les hommes deviendront **"fiers de partager avec vous les trésors de l'Être suprême" (l. 24)**. La relation sera transformée en partenariat.
+    *   Les deux dernières phrases sont une formule d'émancipation (empowerment) très puissante. **"il est en votre pouvoir de les affranchir" (l. 25)** : la solution est entre leurs mains.
+    *   La formule finale, **"vous n'avez qu'à le vouloir" (l. 26)**, grâce à la tournure restrictive "ne... que", fait de la volonté la seule et unique condition du succès. C'est le mot d'ordre ultime.
+
+---
+
+#### **QUESTION DE GRAMMAIRE POSSIBLE**
+
+**Question :** "Analysez la négation dans la phrase : 'vous n'avez qu'à le vouloir'."
+
+**Réponse :** Il s'agit d'une négation restrictive. Elle est composée de l'adverbe de négation "ne" et de la conjonction "que" qui porte sur le groupe verbal à l'infinitif "à le vouloir". Contrairement à une négation totale (ne... pas), la négation restrictive équivaut à un adverbe d'affirmation comme "seulement" ou "uniquement". Le sens de la phrase est donc : "La seule chose que vous avez à faire, c'est de le vouloir". Cette structure met en valeur le fait que la volonté est la seule et unique condition requise pour la réussite du projet.
+
+---
+
+#### **CONCLUSION**
+
+*   **Bilan de l'analyse :** Ce postambule est un chef-d'œuvre d'éloquence militante. Olympe de Gouges y déploie tous les ressorts du discours polémique : apostrophes, questions rhétoriques, métaphores, antithèses. Elle cherche à créer un électrochoc pour transformer la conscience des femmes en action politique. Loin d'être une simple conclusion, ce texte est un véritable appel aux armes, qui place la responsabilité de la libération entre les mains des femmes elles-mêmes.
+
+*   **Ouverture justifiée (lien avec le parcours "Écrire et combattre pour l'égalité") :** Le cri "Femme, réveille-toi !" fait écho à d'autres grands textes de combat. On peut par exemple le rapprocher du célèbre "Indignez-vous !" de Stéphane Hessel au XXIe siècle. Dans les deux cas, bien que les contextes soient très différents, l'auteur cherche par une formule percutante à secouer la conscience de ses contemporains face à une injustice. Cela montre que l'écriture de combat traverse les siècles, utilisant la force des mots pour transformer l'indignation en engagement.
