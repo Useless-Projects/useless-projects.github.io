@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiche de révision : Louise Labé, *Épître dédicatoire à Clémence de Bourges* (1555)
+title: Fiche de révision Louise Labé, *Épître dédicatoire à Clémence de Bourges* (1555)
 ---
 
 #### **INTRODUCTION**
